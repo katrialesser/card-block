@@ -10,8 +10,8 @@ import * as block1 from './card-row';
 
 // Category name and slug
 const category = {
-  slug: 'cloudblocks', // needs to match the css class of the block container: ".wp-block-cloudblocks-[block-name]"
-  title: __('Cloud Blocks'),
+  slug: 'ilws', // needs to match the css class of the block container: ".wp-block-cloudblocks-[block-name]"
+  title: __('ILWS Blocks'),
 };
 
 // Register the new category and blocks
